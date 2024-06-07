@@ -1,3 +1,5 @@
+##1 Data from menu_items.csv and order_details.csv is loaded into MySQL Workbench. Which is later cleaned & tranformed
+
 ##2  Basic SELECT Queries
 SELECT * FROM restaurant.menu_items;
 
